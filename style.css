@@ -1,0 +1,20 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.edit-btn, .delete-btn {
+    margin-left: 5px;
+}
+
+#searchInput {
+    margin-bottom: 20px;
+}
+
+.modal-content {
+    border-radius: 10px;
+}
