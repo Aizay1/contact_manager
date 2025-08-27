@@ -20,7 +20,7 @@ services:
     restart: unless-stopped
     environment:
       MYSQL_ROOT_PASSWORD: root
-      MYSQL_DATABASE: contact
+      MYSQL_DATABASE: contact_db
       MYSQL_USER: contact
       MYSQL_PASSWORD: "12?34?56?Aa"
     ports:

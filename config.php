@@ -1,6 +1,6 @@
 <?php
 $host = 'mariadb';
-$dbname = 'contact';
+$dbname = 'contact_db';
 $username = 'contact';
 $password = '12?34?56?Aa';
 
